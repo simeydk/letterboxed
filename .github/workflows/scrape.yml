@@ -27,4 +27,3 @@ jobs:
         timestamp=$(date -u +%F" "%T" UTC")
         git commit -m "Latest Puzzle Update: ${timestamp}" || exit 0
         git push
-
