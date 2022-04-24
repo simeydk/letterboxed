@@ -1,0 +1,36 @@
+name: Scrape NYTLetterboxed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0/3 * * *'
+jobs:
+  download-and-save:
+    runs-on: ubuntu-latest
+    env:
+      consumer_key: ${{ secrets.consumer_key }}
+      consumer_secret: ${{ secrets.consumer_secret }}
+      access_token: ${{ secrets.access_token }}
+      access_token_secret: ${{ secrets.access_token_secret }}
+    
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+        cache: 'pip'
+    - run: pip install -r requirements.txt
+    - run: pip test
+    
+    - name: Run the scrape script
+      run: python ./scrape.py
+
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u +%F" "%T" UTC")
+        git commit -m "Latest weather forecast: ${timestamp}" || exit 0
+        git push
+
