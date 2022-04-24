@@ -20,11 +20,17 @@ class Letterboxed():
                 mapper[c] = i+1
         return mapper
 
-    def map(self, word: str) -> List[int]:
+    def map_word(self, word: str) -> List[int]:
+        """
+        Map a word to a list of the sides of its letters
+        """
         return [self.mapper[c] for c in word]
 
     def is_valid_word(self, word) -> bool:
-        mapped = self.map(word)
+        """
+        Check if a word can be written in the given puzzle
+        """
+        mapped = self.map_word(word)
         if 0 in mapped: return False
         for i in range(len(mapped) - 1):
             if mapped[i] == mapped[i+1]:
@@ -33,23 +39,40 @@ class Letterboxed():
     
     @cached_property
     def valid_words(self) -> List[str]:
+        """
+        returns all the valid words in the puzzle
+        """
         valid_words = [word for word in self.dictionary if (self.is_valid_word(word) and (len(word) >= self.min_word_len))]
         valid_words.sort(key = lambda s: (self.score((s,)), -len(set(s)), -len(s)))
         return valid_words
 
     @cached_property
-    def chars(self):
+    def chars(self) -> Set[str]:
+        """
+        return a set of all the valid characters in the puzzle
+        """
         return set(char for char in self.puzzle_string if char != ' ')
 
     @lru_cache(26)
     def starts_with(self, start: str) -> Set[str]:
+        """
+        returns all valid words that starts with a given letter
+        """
         return set(word for word in self.valid_words if word.startswith(start))
     
     @lru_cache
     def score(self, words: Tuple[str]) -> int:
+        """
+        returns the number of remaining characters for a tuple of words
+        """
         return len(self.chars.difference(set(''.join(words))))
 
     def get_solutions(self, max_solutions = 1000, max_len = 5):    
+        """
+            Get multiple solutions
+            max_solutions: maximum number of solutions to return
+            max_len: maximum length of a solution
+        """
         
         # list of solution tuples        
         solutions = []
