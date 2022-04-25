@@ -9,7 +9,7 @@ if __name__ == '__main__':
     
     location = 'data'
     filename = os.path.join(location, f'{print_date}.json')
-    
+    print(print_date)
     os.makedirs(location, exist_ok=True)
     with open(filename, 'w') as f:
         f.write(json.dumps(data, indent=2))
