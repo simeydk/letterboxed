@@ -1,4 +1,4 @@
-name: Scrape NYTLetterboxed
+name: Scrape NYT Games
 
 on:
   workflow_dispatch:
