@@ -15,13 +15,15 @@ def letterboxed_filename(data):
     filename = os.path.join(location, f'{print_date}.json')
     return filename
 
-    location = 'data'
+def spellingbee_filename(data):
+    location = 'data/spellingbee'
+    print_date = data['today']['printDate']
     filename = os.path.join(location, f'{print_date}.json')
-    print(print_date)
-    os.makedirs(location, exist_ok=True)
-    with open(filename, 'w') as f:
-        f.write(json.dumps(data, indent=2))
+    return filename
+
 letterboxed_url = 'https://www.nytimes.com/puzzles/letter-boxed'
+spellingbee_url = 'https://www.nytimes.com/puzzles/spelling-bee'
 
 if __name__ == '__main__':
     scrape_gamedata(letterboxed_url, letterboxed_filename)
+    scrape_gamedata(spellingbee_url, spellingbee_filename)
