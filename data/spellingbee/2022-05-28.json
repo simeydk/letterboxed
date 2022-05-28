@@ -1,0 +1,121 @@
+{
+  "today": {
+    "expiration": 1653807600,
+    "displayWeekday": "Saturday",
+    "displayDate": "May 28, 2022",
+    "printDate": "2022-05-28",
+    "centerLetter": "l",
+    "outerLetters": [
+      "c",
+      "e",
+      "m",
+      "o",
+      "p",
+      "x"
+    ],
+    "validLetters": [
+      "l",
+      "c",
+      "e",
+      "m",
+      "o",
+      "p",
+      "x"
+    ],
+    "pangrams": [
+      "complex"
+    ],
+    "answers": [
+      "complex",
+      "cell",
+      "cello",
+      "clomp",
+      "clop",
+      "compel",
+      "cool",
+      "elope",
+      "excel",
+      "expel",
+      "expellee",
+      "loco",
+      "loll",
+      "lollop",
+      "loom",
+      "loop",
+      "lope",
+      "melee",
+      "mole",
+      "moll",
+      "oleo",
+      "peel",
+      "people",
+      "plop",
+      "pole",
+      "poll",
+      "polo",
+      "pomelo",
+      "pommel",
+      "pool"
+    ],
+    "id": 3442,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "expiration": 1653721200,
+    "displayWeekday": "Friday",
+    "displayDate": "May 27, 2022",
+    "printDate": "2022-05-27",
+    "centerLetter": "w",
+    "outerLetters": [
+      "a",
+      "g",
+      "i",
+      "m",
+      "n",
+      "r"
+    ],
+    "validLetters": [
+      "w",
+      "a",
+      "g",
+      "i",
+      "m",
+      "n",
+      "r"
+    ],
+    "pangrams": [
+      "warming"
+    ],
+    "answers": [
+      "warming",
+      "awing",
+      "awning",
+      "gnaw",
+      "gnawing",
+      "wagging",
+      "waging",
+      "waning",
+      "wanna",
+      "warm",
+      "warn",
+      "warning",
+      "warring",
+      "wigging",
+      "wigwag",
+      "wigwagging",
+      "wigwam",
+      "wing",
+      "winging",
+      "wingman",
+      "wining",
+      "winning",
+      "wiring",
+      "wring",
+      "wringing"
+    ],
+    "id": 12342,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
