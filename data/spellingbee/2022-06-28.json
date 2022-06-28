@@ -1,0 +1,119 @@
+{
+  "today": {
+    "expiration": 1656486000,
+    "displayWeekday": "Tuesday",
+    "displayDate": "June 28, 2022",
+    "printDate": "2022-06-28",
+    "centerLetter": "w",
+    "outerLetters": [
+      "a",
+      "d",
+      "i",
+      "l",
+      "n",
+      "t"
+    ],
+    "validLetters": [
+      "w",
+      "a",
+      "d",
+      "i",
+      "l",
+      "n",
+      "t"
+    ],
+    "pangrams": [
+      "tailwind"
+    ],
+    "answers": [
+      "tailwind",
+      "await",
+      "dawn",
+      "lawn",
+      "nitwit",
+      "twain",
+      "twilit",
+      "twill",
+      "twin",
+      "twit",
+      "wail",
+      "wait",
+      "wall",
+      "wand",
+      "wanna",
+      "want",
+      "watt",
+      "wild",
+      "wildland",
+      "will",
+      "wilt",
+      "wind"
+    ],
+    "id": 26800,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "expiration": 1656399600,
+    "displayWeekday": "Monday",
+    "displayDate": "June 27, 2022",
+    "printDate": "2022-06-27",
+    "centerLetter": "u",
+    "outerLetters": [
+      "c",
+      "d",
+      "i",
+      "n",
+      "o",
+      "t"
+    ],
+    "validLetters": [
+      "u",
+      "c",
+      "d",
+      "i",
+      "n",
+      "o",
+      "t"
+    ],
+    "pangrams": [
+      "conduction",
+      "conduit",
+      "induction"
+    ],
+    "answers": [
+      "conduction",
+      "conduit",
+      "induction",
+      "coconut",
+      "conduct",
+      "count",
+      "cutout",
+      "donut",
+      "duct",
+      "dunno",
+      "induct",
+      "intuit",
+      "intuition",
+      "noun",
+      "outdid",
+      "outdo",
+      "tout",
+      "tuition",
+      "tunic",
+      "tutti",
+      "tutu",
+      "udon",
+      "unction",
+      "uncut",
+      "undid",
+      "undo",
+      "union",
+      "unit",
+      "unto"
+    ],
+    "id": 19306,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
