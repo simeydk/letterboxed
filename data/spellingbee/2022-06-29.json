@@ -1,0 +1,123 @@
+{
+  "today": {
+    "expiration": 1656572400,
+    "displayWeekday": "Wednesday",
+    "displayDate": "June 29, 2022",
+    "printDate": "2022-06-29",
+    "centerLetter": "f",
+    "outerLetters": [
+      "a",
+      "c",
+      "i",
+      "l",
+      "t",
+      "y"
+    ],
+    "validLetters": [
+      "f",
+      "a",
+      "c",
+      "i",
+      "l",
+      "t",
+      "y"
+    ],
+    "pangrams": [
+      "facility"
+    ],
+    "answers": [
+      "facility",
+      "afflict",
+      "alfalfa",
+      "calcify",
+      "calf",
+      "citify",
+      "cliff",
+      "facial",
+      "facially",
+      "fact",
+      "facticity",
+      "fail",
+      "fall",
+      "fallacy",
+      "fatal",
+      "fatality",
+      "fatally",
+      "fatly",
+      "fatty",
+      "fiat",
+      "fifty",
+      "filial",
+      "filially",
+      "fill",
+      "filly",
+      "fitly",
+      "flail",
+      "flat",
+      "flatly",
+      "flay",
+      "flit",
+      "iffy",
+      "lift",
+      "taffy",
+      "tiff"
+    ],
+    "id": 15329,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "expiration": 1656486000,
+    "displayWeekday": "Tuesday",
+    "displayDate": "June 28, 2022",
+    "printDate": "2022-06-28",
+    "centerLetter": "w",
+    "outerLetters": [
+      "a",
+      "d",
+      "i",
+      "l",
+      "n",
+      "t"
+    ],
+    "validLetters": [
+      "w",
+      "a",
+      "d",
+      "i",
+      "l",
+      "n",
+      "t"
+    ],
+    "pangrams": [
+      "tailwind"
+    ],
+    "answers": [
+      "tailwind",
+      "await",
+      "dawn",
+      "lawn",
+      "nitwit",
+      "twain",
+      "twilit",
+      "twill",
+      "twin",
+      "twit",
+      "wail",
+      "wait",
+      "wall",
+      "wand",
+      "wanna",
+      "want",
+      "watt",
+      "wild",
+      "wildland",
+      "will",
+      "wilt",
+      "wind"
+    ],
+    "id": 26800,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
