@@ -1,0 +1,111 @@
+{
+  "today": {
+    "expiration": 1657177200,
+    "displayWeekday": "Wednesday",
+    "displayDate": "July 6, 2022",
+    "printDate": "2022-07-06",
+    "centerLetter": "h",
+    "outerLetters": [
+      "a",
+      "c",
+      "p",
+      "t",
+      "u",
+      "z"
+    ],
+    "validLetters": [
+      "h",
+      "a",
+      "c",
+      "p",
+      "t",
+      "u",
+      "z"
+    ],
+    "pangrams": [
+      "chutzpah"
+    ],
+    "answers": [
+      "chutzpah",
+      "attach",
+      "captcha",
+      "catch",
+      "catchup",
+      "chap",
+      "chat",
+      "chuppah",
+      "hatch",
+      "hath",
+      "hatha",
+      "hutch",
+      "huzzah",
+      "patch",
+      "path",
+      "phat",
+      "tach",
+      "that",
+      "thatch"
+    ],
+    "id": 25518,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "expiration": 1657090800,
+    "displayWeekday": "Tuesday",
+    "displayDate": "July 5, 2022",
+    "printDate": "2022-07-05",
+    "centerLetter": "c",
+    "outerLetters": [
+      "a",
+      "b",
+      "g",
+      "i",
+      "k",
+      "n"
+    ],
+    "validLetters": [
+      "c",
+      "a",
+      "b",
+      "g",
+      "i",
+      "k",
+      "n"
+    ],
+    "pangrams": [
+      "backing"
+    ],
+    "answers": [
+      "backing",
+      "abaci",
+      "aback",
+      "acacia",
+      "acai",
+      "acing",
+      "back",
+      "banc",
+      "cabana",
+      "cabbing",
+      "cabin",
+      "caging",
+      "caking",
+      "cancan",
+      "caning",
+      "canna",
+      "canning",
+      "icing",
+      "kick",
+      "kickback",
+      "kicking",
+      "knack",
+      "knickknack",
+      "niacin",
+      "nick",
+      "nicking"
+    ],
+    "id": 21082,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
