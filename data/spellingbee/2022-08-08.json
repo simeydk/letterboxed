@@ -1,0 +1,121 @@
+{
+  "today": {
+    "expiration": 1660028400,
+    "displayWeekday": "Monday",
+    "displayDate": "August 8, 2022",
+    "printDate": "2022-08-08",
+    "centerLetter": "y",
+    "outerLetters": [
+      "a",
+      "f",
+      "g",
+      "i",
+      "r",
+      "t"
+    ],
+    "validLetters": [
+      "y",
+      "a",
+      "f",
+      "g",
+      "i",
+      "r",
+      "t"
+    ],
+    "pangrams": [
+      "gratify"
+    ],
+    "answers": [
+      "gratify",
+      "affray",
+      "airy",
+      "array",
+      "arty",
+      "fairy",
+      "fatty",
+      "fifty",
+      "fratty",
+      "fray",
+      "friary",
+      "gray",
+      "gritty",
+      "iffy",
+      "itty",
+      "rarity",
+      "ratify",
+      "ratty",
+      "taffy",
+      "tarry",
+      "tatty",
+      "tray"
+    ],
+    "id": 22683,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "expiration": 1659942000,
+    "displayWeekday": "Sunday",
+    "displayDate": "August 7, 2022",
+    "printDate": "2022-08-07",
+    "centerLetter": "o",
+    "outerLetters": [
+      "b",
+      "c",
+      "e",
+      "h",
+      "i",
+      "t"
+    ],
+    "validLetters": [
+      "o",
+      "b",
+      "c",
+      "e",
+      "h",
+      "i",
+      "t"
+    ],
+    "pangrams": [
+      "biotech"
+    ],
+    "answers": [
+      "biotech",
+      "biotic",
+      "bocce",
+      "bocci",
+      "boho",
+      "boob",
+      "booboo",
+      "boohoo",
+      "boot",
+      "bootee",
+      "booth",
+      "bootie",
+      "botch",
+      "both",
+      "choice",
+      "cocci",
+      "coho",
+      "coot",
+      "cootie",
+      "cote",
+      "echo",
+      "echoic",
+      "hobbit",
+      "hobo",
+      "hooch",
+      "hoot",
+      "hottie",
+      "obit",
+      "oboe",
+      "octet",
+      "toot",
+      "tooth",
+      "tote"
+    ],
+    "id": 16581,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
