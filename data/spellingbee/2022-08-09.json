@@ -1,0 +1,108 @@
+{
+  "today": {
+    "expiration": 1660114800,
+    "displayWeekday": "Tuesday",
+    "displayDate": "August 9, 2022",
+    "printDate": "2022-08-09",
+    "centerLetter": "i",
+    "outerLetters": [
+      "a",
+      "c",
+      "d",
+      "t",
+      "u",
+      "v"
+    ],
+    "validLetters": [
+      "i",
+      "a",
+      "c",
+      "d",
+      "t",
+      "u",
+      "v"
+    ],
+    "pangrams": [
+      "viaduct"
+    ],
+    "answers": [
+      "viaduct",
+      "acacia",
+      "acai",
+      "acid",
+      "acidic",
+      "addict",
+      "attic",
+      "audit",
+      "avid",
+      "cacti",
+      "cicada",
+      "civic",
+      "dicta",
+      "didact",
+      "didactic",
+      "diva",
+      "tacit",
+      "tactic",
+      "tutti",
+      "vivid"
+    ],
+    "id": 19055,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "expiration": 1660028400,
+    "displayWeekday": "Monday",
+    "displayDate": "August 8, 2022",
+    "printDate": "2022-08-08",
+    "centerLetter": "y",
+    "outerLetters": [
+      "a",
+      "f",
+      "g",
+      "i",
+      "r",
+      "t"
+    ],
+    "validLetters": [
+      "y",
+      "a",
+      "f",
+      "g",
+      "i",
+      "r",
+      "t"
+    ],
+    "pangrams": [
+      "gratify"
+    ],
+    "answers": [
+      "gratify",
+      "affray",
+      "airy",
+      "array",
+      "arty",
+      "fairy",
+      "fatty",
+      "fifty",
+      "fratty",
+      "fray",
+      "friary",
+      "gray",
+      "gritty",
+      "iffy",
+      "itty",
+      "rarity",
+      "ratify",
+      "ratty",
+      "taffy",
+      "tarry",
+      "tatty",
+      "tray"
+    ],
+    "id": 22683,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
