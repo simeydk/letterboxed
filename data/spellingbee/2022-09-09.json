@@ -62,6 +62,7 @@
     "editor": "Sam Ezersky"
   },
   "yesterday": {
+    "expiration": 1662706800,
     "displayWeekday": "Thursday",
     "displayDate": "September 8, 2022",
     "printDate": "2022-09-08",
