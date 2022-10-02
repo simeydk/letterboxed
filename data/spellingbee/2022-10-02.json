@@ -1,0 +1,122 @@
+{
+  "today": {
+    "expiration": 1664780400,
+    "displayWeekday": "Sunday",
+    "displayDate": "October 2, 2022",
+    "printDate": "2022-10-02",
+    "centerLetter": "p",
+    "outerLetters": [
+      "c",
+      "e",
+      "g",
+      "n",
+      "u",
+      "y"
+    ],
+    "validLetters": [
+      "p",
+      "c",
+      "e",
+      "g",
+      "n",
+      "u",
+      "y"
+    ],
+    "pangrams": [
+      "pungency"
+    ],
+    "answers": [
+      "pungency",
+      "eggcup",
+      "epee",
+      "eyecup",
+      "guppy",
+      "peen",
+      "peep",
+      "pence",
+      "penne",
+      "penny",
+      "peppy",
+      "puce",
+      "punny",
+      "puny",
+      "puppy",
+      "unpeg",
+      "unpen"
+    ],
+    "id": 19660,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "expiration": 1664694000,
+    "displayWeekday": "Saturday",
+    "displayDate": "October 1, 2022",
+    "printDate": "2022-10-01",
+    "centerLetter": "f",
+    "outerLetters": [
+      "d",
+      "e",
+      "i",
+      "n",
+      "t",
+      "v"
+    ],
+    "validLetters": [
+      "f",
+      "d",
+      "e",
+      "i",
+      "n",
+      "t",
+      "v"
+    ],
+    "pangrams": [
+      "definitive"
+    ],
+    "answers": [
+      "definitive",
+      "defend",
+      "defended",
+      "defied",
+      "define",
+      "defined",
+      "definite",
+      "deft",
+      "deified",
+      "diffident",
+      "edified",
+      "effete",
+      "feed",
+      "feet",
+      "feint",
+      "feinted",
+      "fend",
+      "fended",
+      "fete",
+      "feted",
+      "fetid",
+      "fief",
+      "fiend",
+      "fife",
+      "fifed",
+      "fifteen",
+      "find",
+      "fine",
+      "fined",
+      "finite",
+      "finned",
+      "fitted",
+      "five",
+      "identified",
+      "indefinite",
+      "infinite",
+      "infinitive",
+      "tiff",
+      "vivified"
+    ],
+    "id": 20067,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
