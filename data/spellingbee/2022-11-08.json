@@ -1,0 +1,122 @@
+{
+  "today": {
+    "expiration": 1667980800,
+    "displayWeekday": "Tuesday",
+    "displayDate": "November 8, 2022",
+    "printDate": "2022-11-08",
+    "centerLetter": "g",
+    "outerLetters": [
+      "h",
+      "l",
+      "n",
+      "o",
+      "r",
+      "u"
+    ],
+    "validLetters": [
+      "g",
+      "h",
+      "l",
+      "n",
+      "o",
+      "r",
+      "u"
+    ],
+    "pangrams": [
+      "hourlong"
+    ],
+    "answers": [
+      "hourlong",
+      "ghoul",
+      "glug",
+      "gong",
+      "googol",
+      "goon",
+      "gorgon",
+      "grog",
+      "gull",
+      "guru",
+      "hung",
+      "logo",
+      "logroll",
+      "long",
+      "longhorn",
+      "lung",
+      "oolong",
+      "rough",
+      "rung",
+      "unhung"
+    ],
+    "id": 18988,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "expiration": 1667894400,
+    "displayWeekday": "Monday",
+    "displayDate": "November 7, 2022",
+    "printDate": "2022-11-07",
+    "centerLetter": "a",
+    "outerLetters": [
+      "c",
+      "d",
+      "e",
+      "t",
+      "v",
+      "x"
+    ],
+    "validLetters": [
+      "a",
+      "c",
+      "d",
+      "e",
+      "t",
+      "v",
+      "x"
+    ],
+    "pangrams": [
+      "excavated"
+    ],
+    "answers": [
+      "excavated",
+      "accede",
+      "acceded",
+      "aced",
+      "acetate",
+      "acted",
+      "added",
+      "axed",
+      "cadet",
+      "cava",
+      "cave",
+      "caveat",
+      "caved",
+      "dace",
+      "data",
+      "date",
+      "dated",
+      "dead",
+      "decade",
+      "eave",
+      "evade",
+      "evaded",
+      "exact",
+      "exacta",
+      "exacted",
+      "excavate",
+      "tacet",
+      "tact",
+      "tatted",
+      "taxa",
+      "taxed",
+      "teat",
+      "vacate",
+      "vacated",
+      "vaxed",
+      "vaxxed"
+    ],
+    "id": 26058,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
