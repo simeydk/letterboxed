@@ -1,0 +1,121 @@
+{
+  "today": {
+    "expiration": 1669363200,
+    "displayWeekday": "Thursday",
+    "displayDate": "November 24, 2022",
+    "printDate": "2022-11-24",
+    "centerLetter": "p",
+    "outerLetters": [
+      "i",
+      "l",
+      "n",
+      "o",
+      "r",
+      "u"
+    ],
+    "validLetters": [
+      "p",
+      "i",
+      "l",
+      "n",
+      "o",
+      "r",
+      "u"
+    ],
+    "pangrams": [
+      "purloin"
+    ],
+    "answers": [
+      "purloin",
+      "lipo",
+      "lollipop",
+      "lollop",
+      "loop",
+      "opinion",
+      "pill",
+      "pillion",
+      "pinion",
+      "pinup",
+      "pippin",
+      "plop",
+      "polio",
+      "poll",
+      "polo",
+      "pool",
+      "poop",
+      "poor",
+      "poplin",
+      "porn",
+      "porno",
+      "pour",
+      "prion",
+      "prior",
+      "pronoun",
+      "prop",
+      "puli",
+      "pull",
+      "pulp",
+      "pupil",
+      "purl",
+      "purr",
+      "unpin",
+      "upon"
+    ],
+    "id": 14389,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "displayWeekday": "Wednesday",
+    "displayDate": "November 23, 2022",
+    "printDate": "2022-11-23",
+    "centerLetter": "m",
+    "outerLetters": [
+      "a",
+      "c",
+      "e",
+      "h",
+      "k",
+      "n"
+    ],
+    "validLetters": [
+      "m",
+      "a",
+      "c",
+      "e",
+      "h",
+      "k",
+      "n"
+    ],
+    "pangrams": [
+      "namecheck"
+    ],
+    "answers": [
+      "namecheck",
+      "acme",
+      "ahem",
+      "amen",
+      "came",
+      "emcee",
+      "enema",
+      "heme",
+      "henchman",
+      "henchmen",
+      "mace",
+      "make",
+      "mama",
+      "mamma",
+      "mane",
+      "manna",
+      "mean",
+      "mecca",
+      "meek",
+      "meme",
+      "menace",
+      "name"
+    ],
+    "id": 22338,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
