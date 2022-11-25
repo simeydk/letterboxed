@@ -1,0 +1,123 @@
+{
+  "today": {
+    "expiration": 1669449600,
+    "displayWeekday": "Friday",
+    "displayDate": "November 25, 2022",
+    "printDate": "2022-11-25",
+    "centerLetter": "k",
+    "outerLetters": [
+      "a",
+      "g",
+      "i",
+      "n",
+      "p",
+      "r"
+    ],
+    "validLetters": [
+      "k",
+      "a",
+      "g",
+      "i",
+      "n",
+      "p",
+      "r"
+    ],
+    "pangrams": [
+      "parking",
+      "pranking"
+    ],
+    "answers": [
+      "parking",
+      "pranking",
+      "akin",
+      "inking",
+      "irking",
+      "kappa",
+      "king",
+      "kinging",
+      "kingpin",
+      "kink",
+      "kinking",
+      "kippa",
+      "napkin",
+      "paprika",
+      "park",
+      "parka",
+      "pink",
+      "pinking",
+      "prank",
+      "raking",
+      "rank",
+      "ranking",
+      "rink"
+    ],
+    "id": 14593,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "displayWeekday": "Thursday",
+    "displayDate": "November 24, 2022",
+    "printDate": "2022-11-24",
+    "centerLetter": "p",
+    "outerLetters": [
+      "i",
+      "l",
+      "n",
+      "o",
+      "r",
+      "u"
+    ],
+    "validLetters": [
+      "p",
+      "i",
+      "l",
+      "n",
+      "o",
+      "r",
+      "u"
+    ],
+    "pangrams": [
+      "purloin"
+    ],
+    "answers": [
+      "purloin",
+      "lipo",
+      "lollipop",
+      "lollop",
+      "loop",
+      "opinion",
+      "pill",
+      "pillion",
+      "pinion",
+      "pinup",
+      "pippin",
+      "plop",
+      "polio",
+      "poll",
+      "polo",
+      "pool",
+      "poop",
+      "poor",
+      "poplin",
+      "porn",
+      "porno",
+      "pour",
+      "prion",
+      "prior",
+      "pronoun",
+      "prop",
+      "puli",
+      "pull",
+      "pulp",
+      "pupil",
+      "purl",
+      "purr",
+      "unpin",
+      "upon"
+    ],
+    "id": 14389,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
