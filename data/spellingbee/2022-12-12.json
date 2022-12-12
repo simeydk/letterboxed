@@ -1,0 +1,118 @@
+{
+  "today": {
+    "expiration": 1670918400,
+    "displayWeekday": "Monday",
+    "displayDate": "December 12, 2022",
+    "printDate": "2022-12-12",
+    "centerLetter": "g",
+    "outerLetters": [
+      "e",
+      "h",
+      "i",
+      "l",
+      "t",
+      "w"
+    ],
+    "validLetters": [
+      "g",
+      "e",
+      "h",
+      "i",
+      "l",
+      "t",
+      "w"
+    ],
+    "pangrams": [
+      "lightweight"
+    ],
+    "answers": [
+      "lightweight",
+      "eight",
+      "eighth",
+      "eightieth",
+      "gelee",
+      "gelt",
+      "ghee",
+      "giggle",
+      "gill",
+      "gilt",
+      "glee",
+      "height",
+      "high",
+      "highlight",
+      "legit",
+      "liege",
+      "light",
+      "thigh",
+      "tight",
+      "twig",
+      "twilight",
+      "weigh",
+      "weight",
+      "wiggle",
+      "wight"
+    ],
+    "id": 25980,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "displayWeekday": "Sunday",
+    "displayDate": "December 11, 2022",
+    "printDate": "2022-12-11",
+    "centerLetter": "n",
+    "outerLetters": [
+      "a",
+      "d",
+      "h",
+      "m",
+      "o",
+      "w"
+    ],
+    "validLetters": [
+      "n",
+      "a",
+      "d",
+      "h",
+      "m",
+      "o",
+      "w"
+    ],
+    "pangrams": [
+      "womanhood"
+    ],
+    "answers": [
+      "womanhood",
+      "adman",
+      "adwoman",
+      "anon",
+      "damn",
+      "dawn",
+      "down",
+      "hand",
+      "madman",
+      "madwoman",
+      "mammon",
+      "manhood",
+      "manna",
+      "moan",
+      "monad",
+      "mondo",
+      "mono",
+      "moon",
+      "mown",
+      "naan",
+      "nada",
+      "nana",
+      "nohow",
+      "nomad",
+      "noon",
+      "wand",
+      "wanna",
+      "woman"
+    ],
+    "id": 2226,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
