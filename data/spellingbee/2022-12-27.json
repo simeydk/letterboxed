@@ -1,0 +1,120 @@
+{
+  "today": {
+    "expiration": 1672214400,
+    "displayWeekday": "Tuesday",
+    "displayDate": "December 27, 2022",
+    "printDate": "2022-12-27",
+    "centerLetter": "i",
+    "outerLetters": [
+      "a",
+      "d",
+      "e",
+      "h",
+      "n",
+      "w"
+    ],
+    "validLetters": [
+      "i",
+      "a",
+      "d",
+      "e",
+      "h",
+      "n",
+      "w"
+    ],
+    "pangrams": [
+      "headwind"
+    ],
+    "answers": [
+      "headwind",
+      "adenine",
+      "aide",
+      "aided",
+      "denied",
+      "died",
+      "dine",
+      "dined",
+      "eddied",
+      "heinie",
+      "hidden",
+      "hide",
+      "hied",
+      "hind",
+      "idea",
+      "inane",
+      "indeed",
+      "indie",
+      "innie",
+      "naiad",
+      "nannied",
+      "nine",
+      "wahine",
+      "weenie",
+      "whine",
+      "whined",
+      "whinnied",
+      "wide",
+      "widen",
+      "widened",
+      "wienie",
+      "wind",
+      "winded",
+      "wine",
+      "wined"
+    ],
+    "id": 17032,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "displayWeekday": "Monday",
+    "displayDate": "December 26, 2022",
+    "printDate": "2022-12-26",
+    "centerLetter": "v",
+    "outerLetters": [
+      "a",
+      "i",
+      "l",
+      "n",
+      "o",
+      "p"
+    ],
+    "validLetters": [
+      "v",
+      "a",
+      "i",
+      "l",
+      "n",
+      "o",
+      "p"
+    ],
+    "pangrams": [
+      "pavilion"
+    ],
+    "answers": [
+      "pavilion",
+      "anvil",
+      "avail",
+      "avian",
+      "lava",
+      "naval",
+      "nova",
+      "oval",
+      "pavlova",
+      "vain",
+      "vanilla",
+      "vanillin",
+      "vanpool",
+      "vial",
+      "villa",
+      "villain",
+      "viol",
+      "viola",
+      "violin",
+      "voila"
+    ],
+    "id": 23046,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
