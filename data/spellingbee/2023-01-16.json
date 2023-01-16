@@ -1,0 +1,117 @@
+{
+  "today": {
+    "expiration": 1673942400,
+    "displayWeekday": "Monday",
+    "displayDate": "January 16, 2023",
+    "printDate": "2023-01-16",
+    "centerLetter": "v",
+    "outerLetters": [
+      "a",
+      "e",
+      "g",
+      "i",
+      "n",
+      "w"
+    ],
+    "validLetters": [
+      "v",
+      "a",
+      "e",
+      "g",
+      "i",
+      "n",
+      "w"
+    ],
+    "pangrams": [
+      "weaving"
+    ],
+    "answers": [
+      "weaving",
+      "agave",
+      "avenge",
+      "avenging",
+      "avian",
+      "eave",
+      "even",
+      "evening",
+      "gavage",
+      "gave",
+      "give",
+      "given",
+      "giving",
+      "naive",
+      "nave",
+      "vagina",
+      "vain",
+      "vane",
+      "vegan",
+      "veggie",
+      "vegging",
+      "vein",
+      "view",
+      "viewing",
+      "vine",
+      "waive",
+      "waiving",
+      "wave",
+      "waving",
+      "weave"
+    ],
+    "id": 25082,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "displayWeekday": "Sunday",
+    "displayDate": "January 15, 2023",
+    "printDate": "2023-01-15",
+    "centerLetter": "b",
+    "outerLetters": [
+      "a",
+      "i",
+      "l",
+      "n",
+      "p",
+      "t"
+    ],
+    "validLetters": [
+      "b",
+      "a",
+      "i",
+      "l",
+      "n",
+      "p",
+      "t"
+    ],
+    "pangrams": [
+      "paintball"
+    ],
+    "answers": [
+      "paintball",
+      "alibi",
+      "baba",
+      "bail",
+      "bait",
+      "ball",
+      "banal",
+      "banana",
+      "bilabial",
+      "bill",
+      "blab",
+      "blat",
+      "blatant",
+      "blin",
+      "blini",
+      "blip",
+      "labia",
+      "labial",
+      "pinball",
+      "tabla",
+      "tibia",
+      "tibial"
+    ],
+    "id": 20717,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
