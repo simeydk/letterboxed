@@ -1,0 +1,121 @@
+{
+  "today": {
+    "expiration": 1676620800,
+    "displayWeekday": "Thursday",
+    "displayDate": "February 16, 2023",
+    "printDate": "2023-02-16",
+    "centerLetter": "c",
+    "outerLetters": [
+      "i",
+      "k",
+      "l",
+      "p",
+      "r",
+      "y"
+    ],
+    "validLetters": [
+      "c",
+      "i",
+      "k",
+      "l",
+      "p",
+      "r",
+      "y"
+    ],
+    "pangrams": [
+      "prickly"
+    ],
+    "answers": [
+      "prickly",
+      "cirri",
+      "click",
+      "clip",
+      "crick",
+      "cyclic",
+      "icily",
+      "icky",
+      "kick",
+      "kicky",
+      "lick",
+      "lyric",
+      "pick",
+      "picky",
+      "prick",
+      "pricy",
+      "rick"
+    ],
+    "id": 21821,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "expiration": 1676534400,
+    "displayWeekday": "Wednesday",
+    "displayDate": "February 15, 2023",
+    "printDate": "2023-02-15",
+    "centerLetter": "o",
+    "outerLetters": [
+      "a",
+      "d",
+      "e",
+      "g",
+      "p",
+      "y"
+    ],
+    "validLetters": [
+      "o",
+      "a",
+      "d",
+      "e",
+      "g",
+      "p",
+      "y"
+    ],
+    "pangrams": [
+      "pedagogy"
+    ],
+    "answers": [
+      "pedagogy",
+      "agog",
+      "apogee",
+      "dodge",
+      "dodged",
+      "dodgy",
+      "dodo",
+      "doge",
+      "dogged",
+      "doggo",
+      "doggy",
+      "doodad",
+      "dope",
+      "doped",
+      "dopey",
+      "dopy",
+      "epode",
+      "geode",
+      "goad",
+      "goaded",
+      "good",
+      "goody",
+      "gooey",
+      "goop",
+      "goopy",
+      "odea",
+      "ogee",
+      "pagoda",
+      "peapod",
+      "pogo",
+      "pogoed",
+      "poop",
+      "pooped",
+      "pope",
+      "poppa",
+      "popped",
+      "poppy",
+      "yoga"
+    ],
+    "id": 27238,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
