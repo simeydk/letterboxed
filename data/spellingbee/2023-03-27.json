@@ -1,0 +1,99 @@
+{
+  "today": {
+    "expiration": 1679986800,
+    "displayWeekday": "Monday",
+    "displayDate": "March 27, 2023",
+    "printDate": "2023-03-27",
+    "centerLetter": "f",
+    "outerLetters": [
+      "i",
+      "m",
+      "o",
+      "r",
+      "t",
+      "y"
+    ],
+    "validLetters": [
+      "f",
+      "i",
+      "m",
+      "o",
+      "r",
+      "t",
+      "y"
+    ],
+    "pangrams": [
+      "mortify"
+    ],
+    "answers": [
+      "mortify",
+      "fifty",
+      "firm",
+      "foot",
+      "form",
+      "fort",
+      "fortify",
+      "forty",
+      "from",
+      "iffy",
+      "miff",
+      "motif",
+      "riff",
+      "rift",
+      "roof",
+      "tiff"
+    ],
+    "id": 24977,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "displayWeekday": "Sunday",
+    "displayDate": "March 26, 2023",
+    "printDate": "2023-03-26",
+    "centerLetter": "f",
+    "outerLetters": [
+      "a",
+      "c",
+      "e",
+      "p",
+      "t",
+      "y"
+    ],
+    "validLetters": [
+      "f",
+      "a",
+      "c",
+      "e",
+      "p",
+      "t",
+      "y"
+    ],
+    "pangrams": [
+      "typeface"
+    ],
+    "answers": [
+      "typeface",
+      "affect",
+      "cafe",
+      "efface",
+      "effect",
+      "effete",
+      "face",
+      "facet",
+      "fact",
+      "fate",
+      "fatty",
+      "feat",
+      "feet",
+      "feta",
+      "fete",
+      "pfft",
+      "taffeta",
+      "taffy"
+    ],
+    "id": 10498,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
