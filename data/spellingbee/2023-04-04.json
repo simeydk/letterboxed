@@ -1,0 +1,116 @@
+{
+  "today": {
+    "expiration": 1680678000,
+    "displayWeekday": "Tuesday",
+    "displayDate": "April 4, 2023",
+    "printDate": "2023-04-04",
+    "centerLetter": "n",
+    "outerLetters": [
+      "a",
+      "f",
+      "i",
+      "m",
+      "r",
+      "y"
+    ],
+    "validLetters": [
+      "n",
+      "a",
+      "f",
+      "i",
+      "m",
+      "r",
+      "y"
+    ],
+    "pangrams": [
+      "infirmary"
+    ],
+    "answers": [
+      "infirmary",
+      "airman",
+      "anima",
+      "fanny",
+      "farina",
+      "infamy",
+      "infirm",
+      "main",
+      "mania",
+      "manna",
+      "many",
+      "marina",
+      "marinara",
+      "mini",
+      "minim",
+      "minima",
+      "minyan",
+      "mirin",
+      "myna",
+      "naan",
+      "naif",
+      "nana",
+      "nanny",
+      "nary",
+      "ninny",
+      "rain",
+      "rainy",
+      "rani",
+      "yarn"
+    ],
+    "id": 26692,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  },
+  "yesterday": {
+    "expiration": 1680591600,
+    "displayWeekday": "Monday",
+    "displayDate": "April 3, 2023",
+    "printDate": "2023-04-03",
+    "centerLetter": "d",
+    "outerLetters": [
+      "c",
+      "i",
+      "m",
+      "o",
+      "t",
+      "y"
+    ],
+    "validLetters": [
+      "d",
+      "c",
+      "i",
+      "m",
+      "o",
+      "t",
+      "y"
+    ],
+    "pangrams": [
+      "commodity"
+    ],
+    "answers": [
+      "commodity",
+      "dimity",
+      "ditto",
+      "ditty",
+      "dodo",
+      "doom",
+      "doomy",
+      "dotcom",
+      "dotty",
+      "idiocy",
+      "idiom",
+      "idiot",
+      "idiotic",
+      "midi",
+      "mood",
+      "moody",
+      "oddity",
+      "tidy",
+      "timid",
+      "timidity",
+      "toddy"
+    ],
+    "id": 26297,
+    "freeExpiration": 0,
+    "editor": "Sam Ezersky"
+  }
+}
