@@ -77,7 +77,8 @@
     ],
     "id": 20193,
     "freeExpiration": 0,
-    "editor": "Sam Ezersky"
+    "editor": "Sam Ezersky",
+    "isPastPuzzle": false
   },
   "yesterday": {
     "displayWeekday": "Monday",
@@ -129,6 +130,7 @@
     ],
     "id": 16212,
     "freeExpiration": 0,
-    "editor": "Sam Ezersky"
+    "editor": "Sam Ezersky",
+    "isPastPuzzle": false
   }
 }
