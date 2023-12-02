@@ -56,6 +56,7 @@
       "chinning",
       "cinch",
       "cinching",
+      "hamachi",
       "icing",
       "inch",
       "inching",
@@ -71,8 +72,7 @@
       "niacin"
     ],
     "id": 20555,
-    "freeExpiration": 0,
-    "editor": "Sam Ezersky"
+    "freeExpiration": 0
   },
   "yesterday": {
     "displayWeekday": "Friday",
